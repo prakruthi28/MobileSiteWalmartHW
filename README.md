@@ -15,6 +15,7 @@ Scenario to automate
 4. Validate that item added is present in the cart and is the only item in the cart
 
 
+
 Tools and Technologies used
 
 Appium, Eclipse IDE, Android SDK, Junit 4, Java 1.8, Xpath, CSS, Chrome browser
