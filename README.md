@@ -1,6 +1,7 @@
 # MobileSiteWalmartHW
 
 Test Problem
+
 Automate an end-to-end user e-commerce transaction flow using any open source tool for mobile.walmart.com<http://mobile.walmart.com> with an existing customer on chrome or safari browser.
 
 Scenario to automate
